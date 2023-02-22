@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <distributionManagement>
         <repository>
-            <id>parent-pom</id>
+            <id>eureka-server</id>
             <name>Recipe packages</name>
             <url>https://maven.pkg.github.com/recipe-microservices/eureka-server</url>
         </repository>
